@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Baloo+Bhai|Permanent+Marker&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Kosugi+Maru|Satisfy&display=swap");
 
 *,
 *::before,
@@ -11,7 +12,7 @@
 
 :root {
   /* --ff-primary: "Source Sans Pro", sans-serif; */
-  --ff-primary: "Baloo Bhai", cursive;
+  --ff-primary: "Kosugi Maru", cursive;
   /* --ff-secondary: "Source Code Pro", monospace; */
   --ff-secondary: "Permanent Marker", cursive;
 
