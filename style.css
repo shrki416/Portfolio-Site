@@ -44,9 +44,9 @@
 /* General styles */
 
 /* endable this to add smooth scrolling */
-/* html {
-    scroll-behavior: smooth;
-} */
+html {
+  scroll-behavior: smooth;
+}
 
 body {
   background: var(--clr-light);
@@ -440,7 +440,8 @@ header {
 }
 
 .footer__link {
-  font-weight: var(--fw-bold);
+  /* font-weight: var(--fw-bold); */
+  letter-spacing: 2px;
 }
 
 .footer__link:hover,
