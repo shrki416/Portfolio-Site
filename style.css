@@ -482,3 +482,16 @@ header {
   margin-left: auto;
   margin-right: auto;
 }
+
+body::-webkit-scrollbar {
+  width: 0.4em;
+}
+
+body::-webkit-scrollbar-thumb {
+  background: var(--clr-accent);
+  border-radius: 20px;
+}
+
+body::-webkit-scrollbar-thumb:hover {
+  background: var(--clr-dark);
+}
