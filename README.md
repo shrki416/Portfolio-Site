@@ -4,7 +4,7 @@ Checkout the project [HERE](https://shrki416.github.io/Portfolio-Site/)
 
 Personal Portfolio Site developed entirely in pure **JavaScript**, **HTML** and **CSS**.
 
-![calculator-image](images/calculator-image.jpg)
+![calculator-image](img/project_image.png)
 
 ![JS](img/javaScript_Icon.png)
 ![HTML](img/html5_icon.png)
